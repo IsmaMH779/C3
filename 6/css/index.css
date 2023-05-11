@@ -1,0 +1,41 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    color: #629320;
+
+}
+
+h2 {
+    color: #75AF0A;
+    margin-bottom: 0;
+}
+
+
+hr {
+    border-top: #75AF0A 1px solid;
+    margin-top: 0;
+}
+
+span {
+    color: #BF8442;
+}
+
+.div1 {
+    width: 25%;
+    height: 100%;
+}
+
+.div2 {
+    width: 75%;
+    border: 1px solid #DFDFDF;
+}
+
+.float-div {
+    float: left;
+}
