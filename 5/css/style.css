@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    background-color: rgb(157, 88, 231);
+    color: white;
+}
+
+h1 {
+    margin: 0;
+    background-color: rgb(52, 7, 94);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.purple-text-color {
+    color: rgb(52, 7, 94);
+    font-style: italic;
+}
+
+.title {
+    color: rgb(52, 7, 94);
+
+}
+
+.space {
+    margin-left: 35px;
+}
