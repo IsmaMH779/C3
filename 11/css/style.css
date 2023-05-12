@@ -1,0 +1,20 @@
+table {
+    border-bottom: #808080 4px solid;
+    border-right: #808080 4px solid;
+    border-top: white 4px solid;
+    border-left: white 4px solid;
+    margin: auto;
+    border-collapse: separate;
+    background: #0099CC;
+}
+
+td,
+th {
+    background-color: #CCFFCC;
+}
+
+div {
+    border: 2px solid #0099CC;
+    margin: 0 auto;
+    display: inline-block;
+}
