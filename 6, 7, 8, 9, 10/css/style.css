@@ -73,8 +73,17 @@ button {
     height: 100%;
 }
 
+button:hover {
+
+    background: -webkit-linear-gradient(top, #cbe783 0%, #ffffff 71%, #ffffff 100%);
+}
+
 .home-button-color {
     background: linear-gradient(to bottom, #ffffff 36%, #e5cdb2 76%, #e5cdb2 76%);
+}
+
+.home-button-color:hover {
+    background: -webkit-linear-gradient(top, #e5cdb2 0%, #ffffff 71%, #ffffff 100%);
 }
 
 ul {
@@ -94,5 +103,9 @@ li {
 img {
     width: 100%;
 }
+
+
+
+
 
 /* actualizado */
