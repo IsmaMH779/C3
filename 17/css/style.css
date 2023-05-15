@@ -1,0 +1,45 @@
+body {
+    background-image: url('../img/ac.jpg');
+    color: black;
+}
+
+div {
+    float: left;
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#divA {
+    background-image: url("../img/back_mantel.jpg");
+}
+
+
+#divB {
+    border: none;
+    width: 150PX;
+    height: 150PX;
+    margin: 25px;
+    background-image: url("../img/back_mantel.jpg");
+}
+
+#divC {
+    background-image: url("../img/back_mantel.jpg");
+    background-size: cover;
+}
+
+#divD {
+    border: none;
+    width: 150PX;
+    height: 150PX;
+    margin: 25px;
+    background-image: url("../img/back_mantel.jpg");
+    background-size: cover;
+}
+
+#div-bg {
+    background-color: white;
+}

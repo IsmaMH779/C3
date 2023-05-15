@@ -1,0 +1,38 @@
+table {
+    border-bottom: #808080 3px solid;
+    border-right: #808080 3px solid;
+    border-top: white 3px solid;
+    border-left: white 3px solid;
+    margin: auto;
+    border-collapse: separate;
+    background: #0099CC;
+}
+
+td {
+    background: #CCFFCC;
+    color: #003333;
+
+}
+
+th {
+    background: #003333;
+    color: #CCFFCC;
+}
+
+div {
+    border: 2px solid #0099CC;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.par-bg {
+    background-color: #99CC99;
+}
+
+.th-pad {
+    padding: 0 25px;
+}
+
+.centered {
+    text-align: center;
+}

@@ -1,0 +1,45 @@
+* {
+    text-align: center;
+}
+
+.border {
+    border: 1px solid black;
+    margin: 0;
+}
+
+th {
+    font-size: 12px;
+    width: 100vw;
+}
+
+td {
+    font-size: 18px;
+    border: 1px solid black;
+}
+
+.td-w {
+    width: 100vw;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.green-bg {
+    background-color: #99FF99;
+}
+
+.blue-bg {
+    background-color: #66FEFF;
+    text-align: start;
+}
+
+.purple-bg {
+    background-color: #FF99FF;
+    text-align: end;
+    vertical-align: bottom;
+}
+
+.red-font {
+    color: #CB1E11;
+}

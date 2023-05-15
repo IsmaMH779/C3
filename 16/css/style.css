@@ -1,0 +1,29 @@
+body {
+    color: rgb(142, 9, 9);
+}
+
+table {
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 0 10px;
+}
+
+table {
+    background-color: #FFFFCC;
+}
+
+.green-td {
+    background-color: #669966;
+}
+
+.orange-td {
+    background-color: #FFCC99;
+}
+
+.yellow-td {
+    background-color: #FFFF99;
+}
