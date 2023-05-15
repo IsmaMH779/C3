@@ -4,6 +4,7 @@ body {
 
 table {
     border: 1px solid black;
+    background-image: url("../img/istockphoto-1388281684-612x612.jpg");
 }
 
 td {
@@ -22,8 +23,4 @@ table {
 
 .orange-td {
     background-color: #FFCC99;
-}
-
-.yellow-td {
-    background-color: #FFFF99;
 }
