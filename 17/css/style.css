@@ -40,6 +40,64 @@ div {
     background-size: cover;
 }
 
+#divE {
+    background-image: url("../img/dh.jpg");
+    background-size: cover;
+}
+
+#divF {
+    background-image: url("../img/dh.jpg");
+    background-size: cover;
+    border: none;
+    width: 150PX;
+    height: 150PX;
+    margin: 25px;
+}
+
+#divG {
+    background-image: url("../img/dh_2.jpg");
+    background-size: cover;
+    border: none;
+    width: 200px;
+    height: 100PX;
+    margin: 50px 0;
+}
+
+#divG-conf {
+    background-color: white;
+}
+
+#divH {
+    background-image: url("../img/dh_3.jpg");
+    background-size: cover;
+    border: none;
+    width: 100px;
+    height: 200PX;
+    margin: 0;
+}
+
+#divH-conf {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+
+#divI {
+    background: linear-gradient(to right, #a4c64e 0%, #515247 100%);
+}
+
+#divJ {
+    background: linear-gradient(to bottom, #e2a48d 2%, #7f2808 82%, #7f2808 90%, #e2a48d 100%);
+}
+
+#divK {
+    background: linear-gradient(to bottom, #cfd9b4 2%, #759e66 100%);
+}
+
+#divL {
+    background: linear-gradient(to bottom, #ffffff00 8%, #759e66 100%);
+}
+
 #div-bg {
     background-color: white;
 }
