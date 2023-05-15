@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+}
+
+#container {
+    background-color: #A3D3FF;
+    width: 440px;
+    border: 5px solid rgb(131, 14, 14);
+}
+
+#clouds {
+    height: 73px;
+    background-image: url("../img/f03.png");
+}
+
+#mario {
+    margin-top: 130px;
+    height: 113px;
+    background-repeat: no-repeat;
+    background-image: url("../img/f02.png");
+    display: flex;
+    align-items: flex-end;
+}
+
+#ground {
+    width: 100%;
+    margin-top: 50px;
+    height: 18.4px;
+    background-image: url("../img/f01.png");
+}
