@@ -245,14 +245,28 @@ body {
 }
 
 .a-material {
-    padding: 15px;
+    padding: 0 15px;
     text-decoration: none;
     color: #70757a;
     font-size: 14px;
+}
+
+.a-material:hover {
+    text-decoration: underline;
 }
 
 #hoja {
     width: 12.25;
     height: 14px;
     margin-right: 6px;
+}
+
+.inf-cont {
+    width: 400px;
+}
+
+#inf-position {
+    display: flex;
+    justify-content: end;
+    align-items: start;
 }
