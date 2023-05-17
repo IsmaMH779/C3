@@ -1,0 +1,131 @@
+* {
+    font-family: "Segoe UI", Segoe, Tahoma, Arial, Verdana, sans-serif;
+}
+
+body {
+    margin: 0;
+    background-image: url("../img/background.webp");
+    background-size: cover;
+}
+
+#container {
+    width: 80%;
+    margin: auto;
+}
+
+
+/* HEADER */
+
+#h-container {
+    height: 5vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#logo-title {
+    width: 154px;
+}
+
+#ul-header {
+    width: 100%;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    margin-left: 76px;
+    padding: 0;
+}
+
+li {
+    color: white;
+    font-size: 13px;
+    margin-right: 36px;
+}
+
+#header-a-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 65%;
+
+}
+
+.header-a {
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#a-user-space {
+    padding: 0 12px 0 0;
+}
+
+#user-img {
+    background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MCA1MCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTAgNTAiPjxj aXJjbGUgZmlsbD0iI2VlZSIgY3g9IjI1IiBjeT0iMjUiIHI9IjI1Ii8+PHBhdGggZmlsbD0iIzY2NiIgZD0iTTE5Ljg5IDIxLjI1YzAtMi43NiAyLjI5LTUgNS4xMS01 czUuMTEgMi4yNCA1LjExIDUtMi4yOSA1LTUuMTEgNS01LjExLTIuMjQtNS4xMS01em0tNC4yNiAxNC4xN2gxLjdjMC00LjE0IDMuNDQtNy41IDcuNjctNy41czcuNjcg My4zNiA3LjY3IDcuNWgxLjcxYzAtMy44My0yLjQyLTcuMTItNS44NC04LjQ5IDEuOTYtMS4xNyAzLjI4LTMuMjcgMy4yOC01LjY4IDAtMy42OC0zLjA2LTYuNjctNi44 Mi02LjY3cy02LjgyIDIuOTktNi44MiA2LjY3YzAgMi40MSAxLjMyIDQuNTEgMy4yOCA1LjY4LTMuNDIgMS4zNy01LjgzIDQuNjYtNS44MyA4LjQ5eiIvPjwvc3ZnPg==");
+    height: 32px;
+    width: 32px;
+    margin: 1px 5px 2px 6px;
+}
+
+#reward-img {
+    width: 40px;
+    height: 40px;
+}
+
+#m-options {
+    background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAxNCIgZmlsbD0id2hpdGUiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcg MCAwIDIwIDE0Ij48cGF0aCBkPSJNMCAwdjJoMjB2LTJoLTIwem0wIDhoMjB2LTJoLTIwdjJ6bTAgNmgyMHYtMmgtMjB2MnoiLz48L3N2Zz4=");
+    width: 20px;
+    height: 39px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    margin: 0 16px;
+}
+
+
+/* input main */
+
+#input-container {
+    margin-top: 110px;
+
+}
+
+#div-input {
+    width: 596px;
+    background-color: white;
+    height: 52px;
+    margin: auto;
+    border-radius: 24px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+#l-svg {
+    margin: 0 8px 0 13px;
+}
+
+input {
+    width: 428px;
+    height: 22px;
+    font-size: 16px;
+    border: none;
+}
+
+input:focus {
+    border: none;
+    outline: none;
+}
+
+#mic-svg {
+    margin-left: 8px;
+}
+
+.space-svg {
+    margin-left: 12px;
+}
