@@ -1,0 +1,14 @@
+body {
+    color: white;
+    background-color: black;
+    margin: 0;
+}
+
+#container {
+    margin: 0 3%;
+}
+
+#header-container {
+    height: 5vh;
+    background-color: aqua;
+}
